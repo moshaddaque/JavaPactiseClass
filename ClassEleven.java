@@ -4,6 +4,7 @@ public class ClassEleven{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        //Searching For an element x in a matrix
         // int rows = sc.nextInt();
         // int cols = sc.nextInt();
         
@@ -69,7 +70,7 @@ public class ClassEleven{
         //     System.out.println();
         // }
 
-
+        // For given Matrix N * M print its transpose...
         int n = sc.nextInt();
         int m = sc.nextInt();
         int matrix[][] = new int[n][m];
