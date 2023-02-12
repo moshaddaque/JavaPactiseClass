@@ -41,7 +41,5 @@ public class Calculator {
         System.out.print("The Ans is:");
         calc(a,b,c);
         
-
-
     }
 }
